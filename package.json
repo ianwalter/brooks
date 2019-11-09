@@ -1,0 +1,7 @@
+{
+  "name": "brooks",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "colortest": "^3.0.4"
+  }
+}
