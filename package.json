@@ -3,5 +3,13 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "colortest": "^3.0.4"
+  },
+  "devDependencies": {
+    "@ianwalter/renovate-config": "^1.2.0"
+  },
+  "renovate": {
+    "extends": [
+      "@ianwalter"
+    ]
   }
 }
