@@ -1,0 +1,28 @@
+{
+    "name": "brooks-vscode",
+    "displayName": "brooks-vscode",
+    "description": "A port of the brooks color scheme/pallete to Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "ianwalter",
+    "author": {
+        "name": "Ian Walter"
+    },
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "brooks",
+                "uiTheme": "vs-dark",
+                "path": "./themes/brooks-color-theme.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^1.75.0"
+    }
+}
