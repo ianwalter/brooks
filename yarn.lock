@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@ianwalter/renovate-config/-/renovate-config-1.2.0.tgz#f84e2fc56ad5d29c0876058c16c25db95baf74a9"
   integrity sha512-OSvziSdR0gxnWeH+9KbS9+HjojFa73vqNFU7wAxWs2ZV/9YofpKw0HwGtzyYgb1xVk8g6ZFPMYaTnFZ4Af6N/w==
 
-colortest@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/colortest/-/colortest-3.0.4.tgz#40432852c82394ec58dff520e770177921ef3daf"
-  integrity sha512-vojjWDtB8jOe0Yc0srbGyNX58ECR5+xi/bIiPAuy5x89Biz6/wVcfuVXaR/bUnPinEVx9OdiwLreaOp6RhlL3w==
+colortest@^3.0.7:
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/colortest/-/colortest-3.0.7.tgz#a60ac5778ab2b79c50e073d4bfbf4feece82f8c3"
+  integrity sha512-SHQGSFSElSvuX4TAH8sD0l+TqI9WjFgGVVqCe8VbqE1yYfinn3mM/a34F4zljf7ipnbofApjz7b12DDrlpO2dw==
